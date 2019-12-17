@@ -7,18 +7,23 @@ h1 {
 }
 
 p {
-
+  font-style: oblique;
 }
 
 a {
-  color: white;
-}
+  color: blue;
+ }
+
+ a:hover {
+    background-color: black;
+    color: white;
+  }
 
 .title {
-  padding: 30px 80px;
+  text-indent: 30%;
+  padding: 24px 0px;
 }
 
 .navigation{
   padding: 10px 80px;
-  background-color: black;
 }
