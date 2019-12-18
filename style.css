@@ -3,11 +3,25 @@ body {
 }
 
 h1 {
+  
+}
 
+h2 {
+  text-indent: 40%;
+  color: white;
+  background-color: black;
+}
+
+h3{
+  text-align: center;
+  color: aqua;
+  background-color: black;
+  margin-left: 30%;
+  margin-right: 30%;
 }
 
 p {
-  font-style: oblique;
+  
 }
 
 a {
@@ -17,6 +31,7 @@ a {
  a:hover {
     background-color: black;
     color: white;
+    font-size: 18px;
   }
 
 .title {
@@ -26,4 +41,20 @@ a {
 
 .navigation{
   padding: 10px 80px;
+}
+
+.paragraph {
+  font-style: oblique;
+}
+
+.deinfo {
+  color: chartreuse;
+  background-color: black;
+  text-align: center;
+  margin-left: 30%;
+  margin-right: 30%;
+}
+
+.funfacts {
+  text-indent: 80%;
 }
