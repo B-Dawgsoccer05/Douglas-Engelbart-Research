@@ -58,3 +58,14 @@ a {
 .funfacts {
   text-indent: 80%;
 }
+
+.facts {
+  margin-right: 80%;
+}
+
+.question {
+  background-color: black;
+  color: chartreuse;
+  font-size: 36pz;
+  font-style: oblique;
+}
