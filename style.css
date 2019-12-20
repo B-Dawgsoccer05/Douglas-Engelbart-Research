@@ -7,7 +7,7 @@ h1 {
 }
 
 h2 {
-  text-indent: 40%;
+  text-align: center;
   color: white;
   background-color: black;
 }
@@ -68,4 +68,8 @@ a {
   color: chartreuse;
   font-size: 36pz;
   font-style: oblique;
+}
+
+.resources{
+  margin-top: 350px;
 }
